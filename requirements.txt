@@ -1,0 +1,8 @@
+Django==6.1.1
+djangorestframework==3.18.1
+psycopg2-binary==2.9.13
+drf-nested-routers==0.95.3
+django-cors-headers==4.9.0
+gunicorn==23.0.0
+python-dotenv==1.0.1
+whitenoise==6.12.0
