@@ -12,7 +12,7 @@ env/
 staticfiles/
 media/
 
-# Node (اگر فرانت‌اند داری)
+# Node
 node_modules/
 
 # IDEs
