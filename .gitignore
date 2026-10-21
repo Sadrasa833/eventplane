@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+.env
+.venv/
+venv/
+env/
+
+# Django
+*.log
+staticfiles/
+media/
+
+# Node (اگر فرانت‌اند داری)
+node_modules/
+
+# IDEs
+.idea/
+.vscode/
